@@ -14,7 +14,8 @@ module.exports = {
         "ReactBootstrap": "readonly",
         "ReactDOM": "readonly",
         "React": "readonly",
-        "context": "readonly"
+        "context": "readonly",
+        "BSON": "readonly"
     },
     extends: [
         'standard'
