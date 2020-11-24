@@ -19,5 +19,5 @@ else
 	mv ${originalEslint} ${javascriptEslint}
 	echo "${green}Moving [${yellow}${typescriptEslint}${reset}] to [${yellow}${originalEslint}${reset}]"
 	mv ${typescriptEslint} ${originalEslint}
-	echo "${green}Ready to eslint ${red}react${green} rules...${reset}"
+	echo "${green}Ready to eslint ${red}typescript${green} rules...${reset}"
 fi
